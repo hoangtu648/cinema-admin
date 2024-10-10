@@ -44,6 +44,10 @@ In case the entered content does not match the requirements, an error message wi
 
 ![image](https://github.com/user-attachments/assets/e402616f-9082-4571-89c0-5711efaebbb5)
 
+<p>Admin can also manage accounts.</p>
+
+![image](https://github.com/user-attachments/assets/90e595c0-2ff9-473e-9374-c14153a28715)
+
 <p>Indispensable is the management of movie lists. Here you can manage movies to show on the website.</p>
 
 ![image](https://github.com/user-attachments/assets/8b994c04-3809-4c43-a236-83f4b317b24c)
@@ -70,4 +74,4 @@ In case the entered content does not match the requirements, an error message wi
 
 ![image](https://github.com/user-attachments/assets/05464ebe-877e-4b74-b3d8-1854ce3b97d2)
 
-<p>Admin can also manage accounts.</p>
+
